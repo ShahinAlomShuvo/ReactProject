@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactProject/static/css/main.5f3aa698.css",
+    "main.js": "/ReactProject/static/js/main.14a12b06.js",
+    "static/js/787.1705f2dd.chunk.js": "/ReactProject/static/js/787.1705f2dd.chunk.js",
+    "static/media/4.svg": "/ReactProject/static/media/4.1e2b65842dfe2c530e1eb7fafc493c56.svg",
+    "static/media/3.svg": "/ReactProject/static/media/3.bf6335a997b0e09fcebc4d215baa2a82.svg",
+    "static/media/slick.svg": "/ReactProject/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ReactProject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ReactProject/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ReactProject/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ReactProject/index.html",
+    "main.5f3aa698.css.map": "/ReactProject/static/css/main.5f3aa698.css.map",
+    "main.14a12b06.js.map": "/ReactProject/static/js/main.14a12b06.js.map",
+    "787.1705f2dd.chunk.js.map": "/ReactProject/static/js/787.1705f2dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f3aa698.css",
+    "static/js/main.14a12b06.js"
+  ]
+}
